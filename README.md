@@ -28,7 +28,7 @@ Este proyecto es una aplicación **Fullstack** desarrollada para el Módulo 7. C
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/jenovevaquijada/m7-portafolio.git](https://github.com/jenovevaquijada/m7-portafolio.git)
+    git clone `https://github.com/jenovevaquijada/m7-portafolio.git`
     ```
 2.  **Instalar dependencias:**
     ```bash
